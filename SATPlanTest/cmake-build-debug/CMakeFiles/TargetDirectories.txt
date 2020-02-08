@@ -1,0 +1,3 @@
+/media/dzhb/DataDisk/ClionProjects/Multi-Agent-Path-Finding/SATPlanTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/dzhb/DataDisk/ClionProjects/Multi-Agent-Path-Finding/SATPlanTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/dzhb/DataDisk/ClionProjects/Multi-Agent-Path-Finding/SATPlanTest/cmake-build-debug/CMakeFiles/SATPlanTest.dir
